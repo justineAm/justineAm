@@ -1,4 +1,4 @@
-# sd190-mqttjs-javascript
+# MQTT over WEB SOCKET
 MQTTjs in JavaScript (Resources for SD 190)
 ## Source
 - https://github.com/mqttjs/MQTT.js
